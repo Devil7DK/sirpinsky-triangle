@@ -1,0 +1,13 @@
+{
+  "jsxSingleQuote": true,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "overrides": [
+    {
+      "files": ["*.yml", "*.json", ".*rc"],
+      "options": {
+        "tabWidth": 2
+      }
+    }
+  ]
+}
